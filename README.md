@@ -8,7 +8,9 @@
 
 - 🔍 [MCP 공식 홈페이지](https://modelcontextprotocol.io/quickstart/user)
 - 🔍 [MCP Server 목록 페이지](https://github.com/modelcontextprotocol/servers/tree/main)
+- 🔍 [SuperClaude - GitHub](https://github.com/SuperClaude-Org/SuperClaude_Framework)
 
 
 - 👉 [Claude MCP 초기 설정 가이드](https://woo2002525.tistory.com/3)
 - 👉 [Firecrawl + Slack MCP Server 사용하여 뉴스 데이터 크롤링 + 메세지 발송](https://woo2002525.tistory.com/4)
+- 👉 [SuperClaude 설치 방법](https://woo2002525.tistory.com/5)
